@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+title:              Miguel Ozier
+bio:                Autor. Literato. Lobisomem.
+description:        "Blog de Miguel Ozier"
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://taylantatli.github.io/Moon
+locale:             pt_BR
+url:                https://teratomaquia.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   teratomaquia
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,14 +37,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email: teratomaquia@gmail.com
+#twitter:            username
+#facebook:           username
+#github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          teratomaquia
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
